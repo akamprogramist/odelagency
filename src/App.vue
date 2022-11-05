@@ -1,9 +1,10 @@
 <script setup>
+import Landing from "./components/Landing.vue";
 import Navbar from "./components/Navbar.vue";
 </script>
 <template>
   <Navbar />
-  <h1 class="text-3xl font-bold underline">Hello world!</h1>
+  <Landing />
 </template>
 
 <style scoped></style>
