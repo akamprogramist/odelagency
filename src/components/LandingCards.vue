@@ -1,7 +1,7 @@
 <template>
   <div
     v-for="i in 3"
-    class="text-white mx-8 my-5 w-auto bg-grey p-10 space-y-5 duration-500 hover:bg-redish"
+    class="text-white mx-8 my-5 w-auto bg-grey p-10 space-y-5 duration-500 hover:bg-redish hover:text-white"
   >
     <svg
       xmlns="http://www.w3.org/2000/svg"
