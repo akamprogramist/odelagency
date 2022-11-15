@@ -36,7 +36,7 @@
   </div>
   <div class="block py-10 space-y-2">
     <h1 class="text-white text-center">
-      2022 &copy; <a href="#" class="text-xl font-extrabold">Odel Agency</a>,
+      2022 &copy; <a href="#" class="text-xl font-extrabold hover:text-redish">Odel Agency</a>,
       All rights reserved.
     </h1>
     <div class="flex text-white space-x-8 justify-center">
