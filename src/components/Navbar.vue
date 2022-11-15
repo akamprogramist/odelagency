@@ -36,7 +36,7 @@
           <li>
             <a
               href="#"
-              class="block py-2 pr-4 pl-3 text-white hover:bg-redish md:p-0"
+              class="block py-2 pr-4 pl-3 text-white rounded hover:bg-redish md:p-0"
               >Home</a
             >
           </li>

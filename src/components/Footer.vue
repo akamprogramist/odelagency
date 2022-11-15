@@ -3,7 +3,7 @@
     <div class="flex justify-center space-x-5 text-white border-white">
       <div
         v-for="i in 3"
-        class="border-2 border-redish p-2 mt-4 rounded-full hover:bg-redish duration-500"
+        class="border-2 border-redish p-2 rounded-full hover:bg-redish duration-500"
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"

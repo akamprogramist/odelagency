@@ -4,7 +4,7 @@
       We're a digital agency
     </h1>
     <button
-      class="text-white font-bold mx-8 my-16 px-8 py-4 border-2 border-redish hover:bg-redish duration-500"
+      class="text-white font-bold mx-8 my-16 px-8 py-4 border-2 rounded border-redish hover:bg-redish duration-500"
     >
       Getting started
     </button>
