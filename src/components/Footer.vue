@@ -1,5 +1,5 @@
 <template>
-  <div class="space-y-8 bg-grey py-10">
+  <div class="space-y-8 bg-grey py-16">
     <div class="flex justify-center space-x-5 text-white border-white">
       <div
         v-for="i in 3"
@@ -29,5 +29,32 @@
     >
       Getting started
     </button>
+  </div>
+  <div class="bg-zinc-800 py-10 space-y-1">
+    <h1 class="text-white text-center text-xl font-extrabold">Suli Office</h1>
+    <p class="text-white text-center text-xl">07700656816</p>
+  </div>
+  <div class="block py-10 space-y-2">
+    <h1 class="text-white text-center">
+      2022 &copy; <a href="#" class="text-xl font-extrabold">Odel Agency</a>,
+      All rights reserved.
+    </h1>
+    <div class="flex text-white space-x-8 justify-center">
+      <a
+        href="#"
+        class="hover:text-redish pb-1 hover:border-b-2 border-redish duration-150"
+        >Designing</a
+      >
+      <a
+        href="#"
+        class="hover:text-redish pb-1 hover:border-b-2 border-redish duration-150"
+        >Programming</a
+      >
+      <a
+        href="#"
+        class="hover:text-redish pb-1 hover:border-b-2 border-redish duration-150"
+        >Social Media</a
+      >
+    </div>
   </div>
 </template>
