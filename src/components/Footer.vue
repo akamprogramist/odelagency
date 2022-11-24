@@ -30,14 +30,18 @@
       Getting started
     </button>
   </div>
-  <div class="bg-zinc-800 py-10 space-y-1">
-    <h1 class="text-white text-center text-xl font-extrabold">Suli Office</h1>
-    <p class="text-white text-center text-xl">07700656816</p>
+  <div
+    class="bg-zinc-800 text-white py-10 space-y-1 hover:text-redish duration-300"
+  >
+    <h1 class="text-center text-xl font-extrabold">Suli Office</h1>
+    <p class="text-center text-xl">07700656816</p>
   </div>
   <div class="block py-10 space-y-2">
     <h1 class="text-white text-center">
-      2022 &copy; <a href="#" class="text-xl font-extrabold hover:text-redish">Odel Agency</a>,
-      All rights reserved.
+      2022 &copy;
+      <a href="#" class="text-xl font-extrabold hover:text-redish"
+        >Odel Agency</a
+      >, All rights reserved.
     </h1>
     <div class="flex text-white space-x-8 justify-center">
       <a
