@@ -39,7 +39,7 @@
   <div class="block py-10 space-y-2">
     <h1 class="text-white text-center">
       2022 &copy;
-      <a href="#" class="text-xl font-extrabold hover:text-redish"
+      <a href="#" class="text-xl font-extrabold hover:text-redish duration-300"
         >Odel Agency</a
       >, All rights reserved.
     </h1>
