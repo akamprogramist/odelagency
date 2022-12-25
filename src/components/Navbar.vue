@@ -44,28 +44,21 @@
             <a
               href="#"
               class="block py-2 pr-4 pl-3 text-white rounded hover:bg-redish md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-              >About</a
+              >Designing</a
             >
           </li>
           <li>
             <a
               href="#"
               class="block py-2 pr-4 pl-3 text-white rounded hover:bg-redish md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-              >Services</a
+              >Programming</a
             >
           </li>
           <li>
             <a
               href="#"
               class="block py-2 pr-4 pl-3 text-white rounded hover:bg-redish md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-              >Pricing</a
-            >
-          </li>
-          <li>
-            <a
-              href="#"
-              class="block py-2 pr-4 pl-3 text-white rounded hover:bg-redish md:hover:bg-transparent md:border-0 md:hover:text-blue-700 md:p-0"
-              >Contact</a
+              >Social Media</a
             >
           </li>
         </ul>

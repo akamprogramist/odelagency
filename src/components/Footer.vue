@@ -21,7 +21,7 @@
         </svg>
       </div>
     </div>
-    <div class="text-white text-center font-extrabold text-4xl">
+    <div class="text-white text-center font-extrabold text-4xl ml-">
       Let's Talk?
     </div>
     <button
